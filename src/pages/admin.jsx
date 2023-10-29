@@ -6,6 +6,7 @@ export const AdminApp = () => {
 
     return (
         <>
+        
             <NavigationAdmin></NavigationAdmin>
             <div className="row w-100 m-0 text-light">
                 <div className="col-2 py-1 vh-100">
